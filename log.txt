@@ -1,0 +1,225 @@
+{
+    "timestamp": "04-19-2024_03:36:02pm",
+    "description": "input auth data",
+    "data": {
+        "auth data": {
+            "id": "476072498",
+            "first_name": "Alexander",
+            "last_name": "K",
+            "username": "Alex_QH",
+            "photo_url": "https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "auth_date": "1713540962",
+            "hash": "91d28a91ff7960eb56b2e7112fe5c021aecfec3a318c39709e5b7df57acc4228"
+        }
+    }
+}
+{
+    "timestamp": "04-19-2024_03:36:02pm",
+    "description": "before sorting",
+    "data": {
+        "data check arr": [
+            "id=476072498",
+            "first_name=Alexander",
+            "last_name=K",
+            "username=Alex_QH",
+            "photo_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "auth_date=1713540962"
+        ]
+    }
+}
+{
+    "timestamp": "04-19-2024_03:36:02pm",
+    "description": "deb",
+    "data": {
+        "data check arr": [
+            "auth_date=1713540962",
+            "first_name=Alexander",
+            "id=476072498",
+            "last_name=K",
+            "photo_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "username=Alex_QH"
+        ],
+        "data check str": "auth_date=1713540962\nfirst_name=Alexander\nid=476072498\nlast_name=K\nphoto_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg\nusername=Alex_QH"
+    }
+}
+
+{
+    "timestamp": "04-19-2024_03:37:05pm",
+    "description": "input auth data",
+    "data": {
+        "auth data": {
+            "id": "476072498",
+            "first_name": "Alexander",
+            "last_name": "K",
+            "username": "Alex_QH",
+            "photo_url": "https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "auth_date": "1713541025",
+            "hash": "ca5604d4dee05638260c1d1ac25612fe4a5d8aac62406d6436805231bcee2bf6"
+        }
+    }
+}
+{
+    "timestamp": "04-19-2024_03:37:05pm",
+    "description": "before sorting",
+    "data": {
+        "data check arr": [
+            "id=476072498",
+            "first_name=Alexander",
+            "last_name=K",
+            "username=Alex_QH",
+            "photo_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "auth_date=1713541025"
+        ]
+    }
+}
+{
+    "timestamp": "04-19-2024_03:37:05pm",
+    "description": "deb",
+    "data": {
+        "data check arr": [
+            "auth_date=1713541025",
+            "first_name=Alexander",
+            "id=476072498",
+            "last_name=K",
+            "photo_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "username=Alex_QH"
+        ],
+        "data check str": "auth_date=1713541025\nfirst_name=Alexander\nid=476072498\nlast_name=K\nphoto_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg\nusername=Alex_QH"
+    }
+}
+
+{
+    "timestamp": "04-19-2024_03:40:26pm",
+    "description": "input auth data",
+    "data": {
+        "auth data": {
+            "id": "476072498",
+            "first_name": "Alexander",
+            "last_name": "K",
+            "username": "Alex_QH",
+            "photo_url": "https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "auth_date": "1713541226",
+            "hash": "9e92e4f556aada15dba3d9fb094d13234dbb29b8120fae47561d9e48a644b97b"
+        }
+    }
+}
+{
+    "timestamp": "04-19-2024_03:40:26pm",
+    "description": "before sorting",
+    "data": {
+        "data check arr": [
+            "id=476072498",
+            "first_name=Alexander",
+            "last_name=K",
+            "username=Alex_QH",
+            "photo_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "auth_date=1713541226"
+        ]
+    }
+}
+{
+    "timestamp": "04-19-2024_03:40:26pm",
+    "description": "deb",
+    "data": {
+        "data check arr": [
+            "auth_date=1713541226",
+            "first_name=Alexander",
+            "id=476072498",
+            "last_name=K",
+            "photo_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "username=Alex_QH"
+        ],
+        "data check str": "auth_date=1713541226\nfirst_name=Alexander\nid=476072498\nlast_name=K\nphoto_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg\nusername=Alex_QH"
+    }
+}
+
+{
+    "timestamp": "04-19-2024_03:41:52pm",
+    "description": "input auth data",
+    "data": {
+        "auth data": {
+            "id": "476072498",
+            "first_name": "Alexander",
+            "last_name": "K",
+            "username": "Alex_QH",
+            "photo_url": "https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "auth_date": "1713541312",
+            "hash": "a4d5d00626bf80f3bb45c52efce1c218a39450b6c021bb807a1136bcdad36b2e"
+        }
+    }
+}
+{
+    "timestamp": "04-19-2024_03:41:52pm",
+    "description": "before sorting",
+    "data": {
+        "data check arr": [
+            "id=476072498",
+            "first_name=Alexander",
+            "last_name=K",
+            "username=Alex_QH",
+            "photo_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "auth_date=1713541312"
+        ]
+    }
+}
+{
+    "timestamp": "04-19-2024_03:41:52pm",
+    "description": "deb1",
+    "data": {
+        "data check arr": [
+            "auth_date=1713541312",
+            "first_name=Alexander",
+            "id=476072498",
+            "last_name=K",
+            "photo_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "username=Alex_QH"
+        ],
+        "data check str": "auth_date=1713541312\nfirst_name=Alexander\nid=476072498\nlast_name=K\nphoto_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg\nusername=Alex_QH"
+    }
+}
+
+{
+    "timestamp": "04-19-2024_03:44:52pm",
+    "description": "input auth data",
+    "data": {
+        "auth data": {
+            "id": "476072498",
+            "first_name": "Alexander",
+            "last_name": "K",
+            "username": "Alex_QH",
+            "photo_url": "https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "auth_date": "1713541492",
+            "hash": "b8c96a5c1099cf50cbb36db7b733698cba436ebe6c9bacda6c7a5778b0404dcf"
+        }
+    }
+}
+{
+    "timestamp": "04-19-2024_03:44:52pm",
+    "description": "before sorting",
+    "data": {
+        "data check arr": [
+            "id=476072498",
+            "first_name=Alexander",
+            "last_name=K",
+            "username=Alex_QH",
+            "photo_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "auth_date=1713541492"
+        ]
+    }
+}
+{
+    "timestamp": "04-19-2024_03:44:52pm",
+    "description": "deb1",
+    "data": {
+        "data check arr": [
+            "auth_date=1713541492",
+            "first_name=Alexander",
+            "id=476072498",
+            "last_name=K",
+            "photo_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg",
+            "username=Alex_QH"
+        ],
+        "data check str": "auth_date=1713541492\nfirst_name=Alexander\nid=476072498\nlast_name=K\nphoto_url=https://t.me/i/userpic/320/hT8wWJoq_en3VTm_jhn-36YPQlLXnmt6J0jtSVDcIEo.jpg\nusername=Alex_QH"
+    }
+}
+
